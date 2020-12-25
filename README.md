@@ -1,4 +1,5 @@
-# TempNodeEmbed_upload
+# TempNodeEmbed
+Please extract the two files (src.rar and data.rar) in the same directory and run the main.py
  
 
 ## Please cite these papers when use this code. 
