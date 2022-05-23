@@ -1,5 +1,6 @@
 # TempNodeEmbed
-**Dynamic Graph Representation Learning for Link Prediction in Dynamic Networks** 
+**Dynamic Graph Representation Learning for Link Prediction in Dynamic Networks**. 
+
 Please extract the two files (src.rar and data.rar) in the same directory and run the main.py
  
 **Keywords**: DynamicNodeEmbedding, GraphRepresentationLearning, Dynamic Protein-protein interaction prediction. 
